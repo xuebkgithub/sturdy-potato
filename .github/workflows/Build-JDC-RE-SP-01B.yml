@@ -20,8 +20,8 @@ on:
         default: 'false'
 
 env:
-  REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: openwrt-18.06
+  REPO_URL: https://github.com/LGA1150/openwrt
+  REPO_BRANCH: v18.06.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: JDC-RE-SP-01B.config
   DIY_P1_SH: devices/JDC-RE-SP-01B/diy-part1.sh
