@@ -20,8 +20,8 @@ on:
         default: 'true'
 
 env:
-  REPO_URL: https://github.com/openwrt/openwrt
-  REPO_BRANCH: v18.06.9
+  REPO_URL: https://github.com/openwrt/chaos_calmer
+  REPO_BRANCH: v15.05.1
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: JDC-RE-SP-01B.config
   DIY_P1_SH: devices/JDC-RE-SP-01B/diy-part1.sh
